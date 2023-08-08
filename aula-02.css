@@ -1,0 +1,19 @@
+div{
+    border: 3px solid red;
+}
+
+nav{
+    margin: 0 auto;
+    padding-top: 10px;
+    text-align: center;
+    width: 50%;
+    height: 10vh;
+    background-color: darkviolet;
+}
+span:hover{
+    color: #fff;
+    cursor: pointer;
+}
+h1{
+   color: #fff 
+}
